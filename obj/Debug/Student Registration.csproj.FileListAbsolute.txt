@@ -1,0 +1,171 @@
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Student Registration.dll.config
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Student Registration.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Student Registration.pdb
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\csc.exe
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\csc.exe.config
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\csc.rsp
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\csi.exe
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\csi.exe.config
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\csi.rsp
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.AppContext.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Collections.Immutable.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Console.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.IO.Compression.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.IO.FileSystem.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.IO.Pipes.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Reflection.Metadata.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Security.AccessControl.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Security.Claims.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.ValueTuple.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Xml.XPath.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\vbc.exe
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\vbc.exe.config
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\vbc.rsp
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\VBCSCompiler.exe
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\roslyn\VBCSCompiler.exe.config
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Antlr3.Runtime.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\AspNet.ScriptManager.jQuery.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.Web.Infrastructure.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Newtonsoft.Json.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\System.Web.Optimization.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\WebGrease.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\System.Web.Optimization.xml
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Newtonsoft.Json.xml
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Antlr3.Runtime.pdb
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\obj\Debug\Student Registration.csprojAssemblyReference.cache
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\obj\Debug\Student Registration.csproj.CoreCompileInputs.cache
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\obj\Debug\Student Registration.csproj.CopyComplete
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\obj\Debug\Student Registration.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\obj\Debug\Student Registration.pdb
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Devart.Data.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Devart.Data.PostgreSql.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Devart.Data.PostgreSql.Vs.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\EnvDTE.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\VSLangProj.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\VsWebSite.Interop.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\stdole.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Microsoft.MSXML.dll
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Devart.Data.xml
+D:\Youtube\projects\New Projects\Student Registration\Student Registration\bin\Devart.Data.PostgreSql.xml
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Student Registration.dll.config
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Student Registration.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Student Registration.pdb
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\csc.exe
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\csc.exe.config
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\csc.rsp
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\csi.exe
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\csi.exe.config
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\csi.rsp
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.AppContext.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Collections.Immutable.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Console.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.IO.Compression.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.IO.FileSystem.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.IO.Pipes.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Security.AccessControl.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Security.Claims.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.ValueTuple.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Xml.XPath.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\vbc.exe
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\vbc.exe.config
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\vbc.rsp
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\VBCSCompiler.exe
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\roslyn\VBCSCompiler.exe.config
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Antlr3.Runtime.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\AspNet.ScriptManager.jQuery.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.Web.Infrastructure.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Newtonsoft.Json.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\System.Web.Optimization.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\WebGrease.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\EnvDTE.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\VSLangProj.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\VsWebSite.Interop.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\stdole.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.MSXML.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\System.Web.Optimization.xml
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Newtonsoft.Json.xml
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Antlr3.Runtime.pdb
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\obj\Debug\Student Registration.csprojResolveAssemblyReference.cache
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\obj\Debug\Student Registration.dll
+C:\Programming\.Net\ASP.Net\Student Registration\Student Registration\obj\Debug\Student Registration.pdb
